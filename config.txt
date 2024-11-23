@@ -1,2 +1,5 @@
 trojan://telegram-id-privatevpns@13.50.150.190:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B8%F0%9F%87%AA%20SE-13.50.150.190%3A22222
 trojan://dns68@199.68.156.69:443?security=tls&sni=trojan.putata.us.kg&alpn=http%2F1.1&fp=randomized&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560#1
+trojan://dns68@199.68.156.68:443?security=tls&sni=trojan.putata.us.kg&alpn=http%2F1.1&fp=randomized&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-199.68.156.68%3A443
+trojan://telegram-id-directvpn@51.44.134.177:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AB%F0%9F%87%B7%20FR-51.44.134.177%3A22222
+trojan://dns68@206.238.237.1:2087?security=tls&sni=trojan.putata.us.kg&alpn=http%2F1.1&fp=randomized&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%B8%F0%9F%87%AC%20SG-206.238.237.1%3A2087
