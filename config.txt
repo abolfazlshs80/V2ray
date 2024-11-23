@@ -1,0 +1,17 @@
+trojan://telegram-id-privatevpns@13.50.150.190:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B8%F0%9F%87%AA%20SE-13.50.150.190%3A22222
+trojan://dns68@199.68.156.69:443?security=tls&sni=trojan.putata.us.kg&alpn=http%2F1.1&fp=randomized&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560#1
+trojan://dns68@199.68.156.68:443?security=tls&sni=trojan.putata.us.kg&alpn=http%2F1.1&fp=randomized&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-199.68.156.68%3A443
+trojan://telegram-id-directvpn@51.44.134.177:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AB%F0%9F%87%B7%20FR-51.44.134.177%3A22222
+trojan://dns68@206.238.237.1:2087?security=tls&sni=trojan.putata.us.kg&alpn=http%2F1.1&fp=randomized&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%B8%F0%9F%87%AC%20SG-206.238.237.1%3A2087
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6697#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B5%F0%9F%87%B1%20PL-51.77.53.200%3A6697
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8008#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B5%F0%9F%87%B1%20PL-51.77.53.200%3A8008
+trojan://bpb-trojan@188.114.98.89:443?security=tls&sni=bpB-woRker-PanEL-AY6.pagEs.dev&type=ws&host=bpB-woRker-PanEL-AY6.pagEs.dev&path=%2FtrBLUKS93cpgZZCas5%3Fed#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-188.114.98.89%3A443
+trojan://3648425794742788096@52.48.40.31:443?security=tls&sni=cool-meerkat.pig299.lat&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%AA%20IE-52.48.40.31%3A443
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%AB%F0%9F%87%B7%20FR-54.36.174.181%3A2375
+trojan://telegram-id-privatevpns@52.211.43.105:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AE%F0%9F%87%AA%20IE-52.211.43.105%3A22222
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%AD%20CH-23.166.88.221%3A8118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A6%F0%9F%87%B1%20AL-103.167.234.98%3A990
+trojan://dns68@135.84.79.80:443?security=tls&sni=trojan.putata.us.kg&alpn=http%2F1.1&fp=randomized&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-135.84.79.80%3A443
+trojan://bpb-trojan@190.93.245.87:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed#%F0%9F%94%92%20TR-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-190.93.245.87%3A443
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%AD%20CH-156.146.62.162%3A443
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8008#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B5%F0%9F%87%B1%20PL-51.77.53.200%3A8008
